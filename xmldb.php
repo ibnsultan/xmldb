@@ -1,9 +1,6 @@
 <?php
 /**
  * PHP XML DB
- *  
- * @copyright 2015
- * @author Ante Laca <ante.laca@gmail.com>
  * 
  */
 class xmlDb
