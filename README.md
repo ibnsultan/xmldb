@@ -27,7 +27,7 @@ Delete the database file from data directory.
 #### Chmod database file
 
 ```
-xmlDb::chmodDatabase('database', 0755);
+xmlDb::chmod('database', 0755);
 
 ```
 
